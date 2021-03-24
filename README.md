@@ -1,4 +1,4 @@
-### Hi there 👋
+### E aí 👋
 
 <!--
 **barbarapxto/barbarapxto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde 2019 e trabalho com .NET desde 2013. 😄
