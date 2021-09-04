@@ -14,7 +14,7 @@ Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 
-<h3>E aprendendo:</h3>
+<h3>E estou aprendendo:</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
