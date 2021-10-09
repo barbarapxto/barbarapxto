@@ -4,8 +4,8 @@ Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde
 
 <div>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&show_icons=true&theme=radical" />-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarapxto&layout=compact&theme=outrun" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&theme=outrun&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarapxto&layout=compact&theme=outrun" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&theme=outrun&show_icons=true" />
  </div>
 <br>
 
