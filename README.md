@@ -1,13 +1,6 @@
 ### Olá! Tudo bem? 👋
 
-Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde 2019 e trabalho com .NET desde 2013. Estou tentando migrar do back-end para o front-end. 😄
-
-<div>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&show_icons=true&theme=radical" />-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarapxto&layout=compact&theme=outrun" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&theme=outrun&show_icons=true" />
- </div>
-<br>
+Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde 2019 e trabalho com .NET desde 2013. No momento, estou em transição para o front-end. 😄
 
 <h3>Atualmente trabalho com:</h3>
 <div>
@@ -24,4 +17,10 @@ Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <!--<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">-->
 </div>
-
+<br>
+<div>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&show_icons=true&theme=radical" />-->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarapxto&layout=compact&theme=outrun" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&theme=outrun&show_icons=true" />
+ </div>
+<br>
