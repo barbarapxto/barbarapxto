@@ -24,3 +24,7 @@ Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&theme=outrun&show_icons=true" />
  </div>
 <br>
+<div>
+  <h3>Contato:</h3>
+  <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/barbarapeixoto/" /></a>
+</div>
