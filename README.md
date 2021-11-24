@@ -26,5 +26,5 @@ Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde
 <br>
 <div>
   <h3>Contato:</h3>
-  <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link="https://www.linkedin.com/in/barbarapeixoto/" /></a>
+  <a href="https://www.linkedin.com/in/barbarapeixoto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/></a>
 </div>
