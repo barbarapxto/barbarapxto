@@ -1,4 +1,4 @@
-### Olá! Tudo bem? 👋
+### E aí! 👋
 
 Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde 2019 e trabalho com .NET desde 2013. No momento, estou em transição para o front-end. 😄
 
@@ -23,8 +23,8 @@ Meu nome é Bárbara, sou formada em Análise e Desenvolvimento de Sistema desde
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarapxto&layout=compact&theme=outrun" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&theme=outrun&show_icons=true" />
  </div>
-<br>
+
 <div>
   <h3>Contato:</h3>
-  <a href="https://www.linkedin.com/in/barbarapeixoto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/barbarapeixoto/" target="_blank">LinkedIn</a>
 </div>
