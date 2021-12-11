@@ -1,5 +1,5 @@
 
-<p>I'm Bárbara and I've been working as a .NET developer since 2013, but now I'm studying front-end and UI Design 😄</p>
+<p>I'm Bárbara and I've been working as a .NET developer since 2013 and now I'm studying front-end and UI Design 😄</p>
 
 <h3>Techs I'm currently working on:</h3>
 <div>
