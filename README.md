@@ -10,8 +10,8 @@ const barbara = {
 ```
 <br>
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarapxto&layout=compact&theme=outrun" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&theme=outrun&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarapxto&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&theme=dark&show_icons=true" />
 </div>
  
 <br>
