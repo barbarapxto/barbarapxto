@@ -2,10 +2,12 @@
 <h3>Olá, tudo bem? 😙✌ </h3>
 
 ```javascript
-const barbara = {
-  nome: "Bárbara Peixoto",
-  descricao: "Back-end .NET desde 2013 e apaixonada por Front-end e UI Design 💜",
-  linkedin: "https://www.linkedin.com/in/barbarapeixoto/"
+const aboutMe = {
+  name: "Bárbara Peixoto",
+  description: "Back-end .NET desde 2013 e apaixonada por Front-end e UI Design 💜",
+  socials: {
+    linkedin: "https://www.linkedin.com/in/barbarapeixoto/"
+  }
 }
 ```
 <br>
