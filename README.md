@@ -1,16 +1,17 @@
 
 <h3>Olá, tudo bem? 😙✌ </h3>
 
-```javascript
-const aboutMe = {
-  name: 'Bárbara Peixoto',
-  description: 'Back-end .NET desde 2013 e apaixonada por Front-end e UI Design 💜',
-  socials: {
-    linkedIn: 'https://www.linkedin.com/in/barbarapeixoto/',
-    rocketseat: 'https://app.rocketseat.com.br/me/barbarapeixoto'
-  }
-}
-```
+## 🚀 Sobre mim
+Me chamo Bárbara e sou dev .NET desde 2013, porém, atualmente, estou em processo de migração para o front-end, pois descobri que é minha paixão! Também gosto bastante de UI Design e gosto de estudar algumas coisas da área.
+
+👩‍💻 Trabalho atualmente para uma empresa de SP com C# e Asp.net.
+
+🧠 Estou aprendendo ReactJS na Rocketseat e pretendo, futuramente, aprender React Native também.
+
+📫 Como entrar em contato comigo:
+<br>https://www.linkedin.com/in/barbarapeixoto/
+<br>https://app.rocketseat.com.br/me/barbarapeixoto
+
 <br>
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarapxto&layout=compact&theme=dark" />
