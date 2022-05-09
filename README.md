@@ -3,10 +3,11 @@
 
 ```javascript
 const aboutMe = {
-  name: "Bárbara Peixoto",
-  description: "Back-end .NET desde 2013 e apaixonada por Front-end e UI Design 💜",
+  name: 'Bárbara Peixoto',
+  description: 'Back-end .NET desde 2013 e apaixonada por Front-end e UI Design 💜',
   socials: {
-    linkedin: "https://www.linkedin.com/in/barbarapeixoto/"
+    linkedIn: 'https://www.linkedin.com/in/barbarapeixoto/',
+    rocketseat: 'https://app.rocketseat.com.br/me/barbarapeixoto'
   }
 }
 ```
