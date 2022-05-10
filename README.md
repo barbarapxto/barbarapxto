@@ -8,16 +8,11 @@ Me chamo Bárbara e sou dev .NET desde 2013, porém, atualmente, estou em proces
 
 🧠 Estou aprendendo ReactJS na Rocketseat e pretendo, futuramente, aprender React Native também.
 
-📫 Como entrar em contato comigo:
-<br>https://www.linkedin.com/in/barbarapeixoto/
-<br>https://app.rocketseat.com.br/me/barbarapeixoto
+📫 Redes:
+<br><a href="https://www.linkedin.com/in/barbarapeixoto/">LinkedIn</a>
+<br><a href="https://app.rocketseat.com.br/me/barbarapeixoto">Rocketseat</a>
 
 <br>
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarapxto&layout=compact&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarapxto&theme=dark&show_icons=true" />
-</div>
- 
 <br>
 <br>
 
