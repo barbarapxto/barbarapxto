@@ -2,11 +2,11 @@
 <h3>Olá, tudo bem? 😙✌ </h3>
 
 ## 🚀 Sobre mim
-Me chamo Bárbara e sou dev .NET desde 2013, porém, atualmente, estou em processo de migração para o front-end, pois descobri que é minha paixão! Também gosto bastante de UI Design e gosto de estudar essa área também.
+Me chamo Bárbara e sou dev .NET desde 2013, porém, atualmente, estou em processo de migração para o front-end, pois descobri que é minha paixão! Também gosto bastante de UI Design e, por isso, estudo essa área também.
 
-👩‍💻 Trabalho atualmente para uma empresa de SP com C# e Asp.net, mas estou aberta à vagas em front-end.
+👩‍💻 Trabalho atualmente para uma empresa de SP (remoto) com C# e Asp.net, mas estou aberta à vagas front-end.
 
-🧠 Estou aprendendo ReactJS na <a href='https://www.rocketseat.com.br/'>Rocketseat</a> e pretendo, futuramente, aprender React Native também. <br>
+🧠 Estou estudando ReactJS na <a href='https://www.rocketseat.com.br/'>Rocketseat</a> e pretendo, futuramente, estudar React Native também. <br>
 
 🤓 Conhecimentos: 
 <div align="left">
